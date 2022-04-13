@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alif Elahi
-- 👀 I’m interested in backend development and system design
-- 🌱 I’m currently learning aws cloud computing
+- 👀 I’m a (MERN) Full-stack developer with focus on front-end (React.js) 
 - 📫 you can reach me through email at alifelahikhan@gmail.com
 
 <!---
