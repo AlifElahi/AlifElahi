@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alif Elahi
-- 👀 I’m a (MERN) Full-stack developer with focus on front-end (React.js) 
+- 👀 I’m a (MEAN) Full-stack developer with focus on front-end (Angular) 
 - 📫 you can reach me through email at alifelahikhan@gmail.com
 
 <!---
